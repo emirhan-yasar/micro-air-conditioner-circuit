@@ -8,4 +8,4 @@ The sensing unit circuit consists of a voltage divider and a voltage buffer. The
 ![SetUnit_Circuit](https://github.com/emirhan-yasar/micro-air-conditioner-circuit/assets/84876671/3c336ef6-0680-474e-ada3-e0c3f57e4631)  
 Similar to the sensing unit circuit, the set unit circuit consists of a voltage divider circuit and a voltage buffer.  
 
-The Full Of The Report Of The Project Can Be Found In The Report: [Micro Air Conditioner Project Report](https://https://github.com/emirhan-yasar/micro-air-conditioner-circuit/blob/main/MicroAirConditionerReport_IEEE.pdf)
+The Full Of The Report Of The Project Can Be Found In The Report: [Micro Air Conditioner Project Report](https://github.com/emirhan-yasar/micro-air-conditioner-circuit/blob/main/MicroAirConditionerReport_IEEE.pdf)
