@@ -5,3 +5,7 @@ In this project, we present a Micro-Air Conditioner concept design as an educati
 ![SensingUnit_Circuit](https://github.com/emirhan-yasar/micro-air-conditioner-circuit/assets/84876671/b3da7b7a-b053-4430-9baa-fbcd2a3e6145)  
 The sensing unit circuit consists of a voltage divider and a voltage buffer. The voltage divider circuit allows us to control the output voltage by the resistance value of the NTC thermistor.  
 ### Set Unit  
+![SetUnit_Circuit](https://github.com/emirhan-yasar/micro-air-conditioner-circuit/assets/84876671/3c336ef6-0680-474e-ada3-e0c3f57e4631)  
+Similar to the sensing unit circuit, the set unit circuit consists of a voltage divider circuit and a voltage buffer.  
+
+The Full Of The Report Of The Project Can Be Found In The Report: [Micro Air Conditioner Project Report](https://https://github.com/emirhan-yasar/micro-air-conditioner-circuit/blob/main/MicroAirConditionerReport_IEEE.pdf)
